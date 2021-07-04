@@ -1,16 +1,19 @@
-### Hi there 👋
+**Hello, I'm Ju Hyeon Do.**
+<br />
+Junior Web Frontend Developer, hoping to become **Professional Developer**.
 
-<!--
-**ji5485/ji5485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+[💻 My Github Blog](https://ji5485.github.io/)
+<br />
+👨‍🎓 University of Seoul, Mathematics
+<br />
+✨ Developer who **makes effort for growing up**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript&logoColor=ffffff&color=f0db4f)
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
+![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react&logoColor=ffffff&color=61DBFB)
+![Node.js](https://img.shields.io/badge/-Node.js-white?style=flat-square&logo=javascript&logoColor=ffffff&color=3C873A)
+![C++](https://img.shields.io/badge/-C++-white?style=flat-square&logo=C%2B%2B&logoColor=ffffff&color=ae3ec9)
