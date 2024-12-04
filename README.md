@@ -1,12 +1,12 @@
 **Hello, I'm Ju Hyeon Do.**
 <br />
-Junior Web Frontend Developer, hoping to become **Professional Developer**.
+Web Frontend Developer, hoping to become **Professional Developer**.
 
 <br />
 
 [💻 My Github Blog](https://ji5485.github.io/)
 <br />
-👨‍🎓 University of Seoul, Mathematics
+👨‍🎓 University of Seoul, Mathematics and Computer Science
 <br />
 ✨ Developer who **makes effort for growing up**
 
