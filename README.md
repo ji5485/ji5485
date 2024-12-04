@@ -23,3 +23,4 @@ Frontend Developer, hoping to become **Professional Developer**.
 ![React Native](https://img.shields.io/badge/-React%20Native-white?style=flat-square&logo=react&logoColor=61DAFB&color=333D4B)
 ![Next.js](https://img.shields.io/badge/-Next.js-white?style=flat-square&logo=nextdotjs&logoColor=ffffff&color=000000)
 ![NestJS](https://img.shields.io/badge/-NestJS-white?style=flat-square&logo=nestjs&logoColor=ffffff&color=E0234E)
+![AWS](https://img.shields.io/badge/-AWS-white?style=flat-square&logo=amazonwebservices&logoColor=ffffff&color=232F3E)
