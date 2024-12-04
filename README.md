@@ -1,6 +1,6 @@
 **Hello, I'm Ju Hyeon Do.**
 <br />
-Web Frontend Developer, hoping to become **Professional Developer**.
+Frontend Developer, hoping to become **Professional Developer**.
 
 <br />
 
