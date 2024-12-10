@@ -18,11 +18,14 @@ Frontend Developer, hoping to become **Professional Developer**.
 
 **Experience**
 - Frontend Developer, Knar (Jun 2019 - Feb 2020)
-- Blockchain Engineer, Hi-Protocol (Dec 2021 - Oct 2024)
+- Lead Blockchain Engineer, Hi-Protocol (Dec 2021 - Oct 2024)
 - Frontend Developer, Toss Place (Jun 2025 - )
 
 <br />
 
 **Activity**
+- Honorable Mention, Smarteen App+ Challenge, SK Planet (Jul 2017)
+- Encouragement Award, Rehoboth Launch Cup, Rehoboth Business Incubator (Dec 2017)
 - Frontend Lecturer, Likelion at University of Seoul (Aug 2019 - Nov 2019)
+- Grand Prize, KU Medical Hackathon, Konkuk University (Nov 2019)
 - Frontend Lecturer, Inflearn and Goorm EDU (Jan 2020 - )
