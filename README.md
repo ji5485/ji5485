@@ -17,10 +17,10 @@ Frontend Developer, hoping to become **Professional Developer**.
 <br />
 
 **Experience**
-- Frontend Developer, Knar (Jun  2019 - Jan 2020)
+- Frontend Developer, Knar (Jun 2019 - Jan 2020)
 - Blockchain Software Engineer, Hi-Protocol (Apr 2022 - Dec 2023)
 - Technical Lead, Hi-Protocol (Jan 2024 - Oct 2024)
-- Frontend Developer, Toss Place (Jun 2025 - )
+- Frontend Developer, Toss Place (Jan 2025 - )
 
 <br />
 
