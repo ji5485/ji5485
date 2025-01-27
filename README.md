@@ -20,7 +20,6 @@ Frontend Developer, hoping to become **Professional Developer**.
 - Frontend Developer, Toss Place (Jan 2025 - )
 - Technical Lead, Hi-Protocol (Jan 2024 - Oct 2024)
 - Blockchain Software Engineer, Hi-Protocol (Apr 2022 - Dec 2023)
-- Frontend Developer, Knar (Jun 2019 - Jan 2020)
 
 <br />
 
